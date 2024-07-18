@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm G.Mohan Babu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me **gollamohanbabu0201@gmail.com**
+- 📫 How to reach me gollamohanbabu0201@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/@gollamohanbabu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gollamohanbabu01" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gollamohanbabu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gollamohanbabu01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/g_mohanbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="g_mohanbabu" height="30" width="40" /></a>
 </p>
 
